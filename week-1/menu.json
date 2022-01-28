@@ -1,0 +1,87 @@
+{
+    "appetizers": [{
+        "name": "Goat Cheese Mushrooms",
+        "ingredients": ["Baby Portobello Mushrooms", "Goat Cheese", "Roasted Sweet Red Peppers"],
+        "desription": "Baby portobello mushrooms loaded with creamy goat cheese."
+    },
+    {
+        "name": "Mozzarella Sticks",
+        "ingredients": ["Mozzarella Chese", "Egg", "Bread Crumbs"],
+        "desription": "Stringy Mozzarella and whole grain bread crumbs."
+    },
+    {
+        "name": "Bacon-Wrapped Jalapeno Poppers",
+        "ingredients": ["Bacon", "Cream Cheese", "Jalapeno"],
+        "desription": "Bubbling cheese with savory bacon and spicy peppers."
+    }
+],
+    "coldSandwiches": [
+        {
+            "name": "Turkey and Cheese",
+            "ingredients": ["Turkey", "American Cheese", "Pickles", "Wheat Bun"],
+            "description": "Fresh cut turkey on a wheat bun with american cheese topped with a pickle"
+        },
+        {
+            "name": "Ham and Cheese",
+            "ingredients": ["Ham", "Swiss Cheese", "Wheat Bun"],
+            "description": "Thinly sliced ham topped with american cheese"
+        },
+        {
+            "name": "Combo",
+            "ingredients": ["Turkey", "Ham", "American Cheese", "Lettuce", "Tomato", "Wheat Bun"],
+            "description": "Fresh sliced meat served on a wheat bun with lettuce tomato and cheese."
+        }
+],
+    "hotSandwiches": [
+        {
+            "name": "Italian",
+            "ingredients": ["Wheat Bun", "Pepperoni", "Cheese"],
+            "description": "Spicy Pepperoni with melted cheese on a toasted bun."
+        },
+        {
+            "name": "Chicken Melt",
+            "ingredients": ["Wheat Bun", "Grilled Chicken", "American Cheese"],
+            "description": "Grilled chicken with melted cheese on a toasted bun."
+        },
+        {
+            "name": "Grilled Cheese",
+            "ingredients": ["Sourdough bread", "American Cheese"],
+            "description": "Melted american cheese on sourdough"
+        }
+],
+    "desserts": [
+        {
+            "name": "Vanilla Milk Shake",
+            "ingredients": ["Vanilla Ice Cream", "Milk", "Whipped Cream", "Cherry"],
+            "description": "Vanilla milk shake topped with whip cream and cherry."
+        },
+        {
+            "name": "Banana Split",
+            "ingredients": ["Vanilla Ice Cream", "Banana", "Whipped Cream", "Chocolate Sauce", "Peanutes", "Cherry"],
+            "description": "Ice cream topped with banana and all the fixings"
+        },
+        {
+            "name": "Carmel Apple",
+            "ingredients": ["Apple", "Carmel", "Peanutes"],
+            "description": "Fresh crisp apple covered in carmel and peanuts."
+        }
+],
+    "drinks": [
+        {
+            "name": "Soda",
+            "ingredients": ["Water", "Sugar", "Natural Flavor"],
+            "description": "Home made fresh bubbly soda"
+        },
+        {
+            "name": "Apple Juice",
+            "ingredients": ["Apples", "Water"],
+            "description": "Homemade freshly squeezed apple juice"
+        },
+        {
+            "name": "Organic Lemonade",
+            "ingredients": ["Organic Lemons", "Water", "Cane Sugar"],
+            "description": "Homemade freshly squeezed lemonade."
+        }
+    ]
+        
+}
